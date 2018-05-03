@@ -7,5 +7,5 @@ you اhave only three attempts.
 https://meshalsaud.github.io/frontend-nanodegree-arcade-game/
 
 ## Resources for project 
--I used Sweet alert (https://sweetalert.js.org/guides/)
--Math random from W3schools (https://www.w3schools.com/jsref/jsref_random.asp)
+1. I used Sweet alert (https://sweetalert.js.org/guides/)
+2. Math random from W3schools (https://www.w3schools.com/jsref/jsref_random.asp)
